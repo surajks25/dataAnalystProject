@@ -1,8 +1,6 @@
 Customer Behaviour Data Analytics Project
 End-to-End Data Analytics Pipeline (Python + MySQL + Power BI)
 
-This project demonstrates a complete end-to-end data analytics workflow, starting from data cleaning in Python to visualization in Power BI.
-
 📌 Project Overview
 The objective of this project is to analyze customer shopping behavior and generate meaningful business insights using a structured data analytics pipeline.
 
@@ -14,9 +12,13 @@ Interactive dashboard creation in Power BI
 
 🛠️ Technologies Used
 Python (Pandas, SQLAlchemy, PyMySQL)
+
 Jupyter Notebook
+
 MySQL
+
 Power BI
+
 GitHub for version control
 
 🔄 Project Workflow
