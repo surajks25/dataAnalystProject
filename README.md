@@ -20,6 +20,7 @@ Power BI
 GitHub for version control
 
 🔄 Project Workflow
+
 1️⃣ Data Cleaning (Jupyter Notebook)
 Loaded raw CSV dataset
 Handled missing values
@@ -36,7 +37,6 @@ Pushed cleaned dataset using df.to_sql()
 Verified data integrity using SQL queries
 
 3️⃣ SQL Analysis
-
 Performed business-level queries such as:
 Revenue by Category
 Revenue by Gender
