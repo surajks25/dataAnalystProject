@@ -69,13 +69,13 @@ Average review rating is 3.75
 
 Jupyter data cleaning process
 ## 📷 Jupyter Work
-![Jupyter](images/jupyter.png)
+![Jupyter](images/jupyterNotebook.png)
 
 ## 🗄️ MySQL Connection
 ![MySQL](images/mysql.png)
 
 ## 📊 Power BI Dashboard
-![Power BI](images/powerbi.png)
+![Power BI](images/powerBi.png)
 
 
 🚀 Project Outcome
