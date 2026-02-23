@@ -11,6 +11,7 @@ SQL-based analysis
 Interactive dashboard creation in Power BI
 
 🛠️ Technologies Used
+
 Python (Pandas, SQLAlchemy, PyMySQL)
 
 Jupyter Notebook
@@ -54,18 +55,6 @@ Revenue by Category
 Sales by Category
 Revenue by Age Group
 Subscription Status Distribution
-
-Dashboard includes slicers for:
-Gender
-Category
-Subscription Status
-Shipping Type
-
-📊 Key Insights
-Clothing category generates highest revenue
-Majority of customers are non-subscribers
-Young adults contribute significantly to revenue
-Average review rating is 3.75
 
 📷 Project Screenshots Included
 
